@@ -1,0 +1,32 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+
+# CocoaPods / Carthage (uncomment if adopted)
+# Pods/
+Carthage/Build/
+
+# Kotlin Multiplatform / Gradle (if Option B is adopted)
+.gradle/
+*.iml
+.idea/
+.kotlin/
+local.properties
+
+# Misc
+.DS_Store
+*.log
